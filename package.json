@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node app.js"  // 🌟 新增：start 脚本，执行 app.js 启动服务
   },
   "keywords": [],
   "author": "",
